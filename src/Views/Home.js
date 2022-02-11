@@ -1,12 +1,13 @@
 import '../Assets/CSS/Home.css';
-
 function Home() {
+
+  
+  return (
+    <div>
     
-    return (
-        <div>
-           
-        </div>
-       
-    )
+    </div>
+
+  )
 }
 export default Home;
+
